@@ -13,11 +13,15 @@ Install the required dependencies by running **mvn clean install**.
 **Features**
 This framework supports the following features:
 
-**Behavior-Driven Development :** Write test scenarios in Gherkin language using feature files.
-**Step Definitions :** Map Gherkin steps to Java code using step definition classes.
-**Hooks :** Set up pre and post-test actions using Cucumber hooks.
-**Assertions :** Utilize assertion libraries to validate expected outcomes.
-**Reporting :** Generate detailed test reports for easy analysis.
+**1. Behavior-Driven Development :** Write test scenarios in Gherkin language using feature files.
+
+**2. Step Definitions :** Map Gherkin steps to Java code using step definition classes.
+
+**3. Hooks :** Set up pre and post-test actions using Cucumber hooks.
+
+**4. Assertions :** Utilize assertion libraries to validate expected outcomes.
+
+**5. Reporting :** Generate detailed test reports for easy analysis.
 
 **Running test :**
 Go to your project directory from terminal and hit following commands **mvn test** 
