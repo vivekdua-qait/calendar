@@ -37,6 +37,7 @@ public class ExampleStepDefinitions {
         // Code to interact with the application
     }
 }
+
 **Runner**
 The test runner class is used to configure and execute your Cucumber tests.
 
